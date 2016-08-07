@@ -1,0 +1,14 @@
+Package: pushjetr
+Title: R Interface to the Pushjet API
+Version: 0.0.1
+Authors@R: person("Sebastian", "Gibb", email="mail@sebastiangibb.de", role=c("aut", "cre"))
+Description: An R interface to the Pushjet API (http://pushjet.io).
+Depends:
+    R (>= 3.3.1)
+Imports: httr, jsonlite
+License: GPL (>= 3)
+URL: https://github.com/sgibb/pushjetr
+BugReports: https://github.com/sgibb/pushjetr/issues/
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1
