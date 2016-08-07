@@ -2,7 +2,7 @@
 
 An R interface to http://pushjet.io. It is similar to
 [RPushBullet](https://github.com/eddelbuettel/rpushbullet) and
-[pushoverr](https://github.com/briandconnelly/pushoverr) but didn't require any
+[pushoverr](https://github.com/briandconnelly/pushoverr) but doesn't require any
 registration.
 
 # Install
